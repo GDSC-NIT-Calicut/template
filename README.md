@@ -2,8 +2,8 @@
 <a href="https://gdscnitc.in">
 	<img width="800" src="./GDSCNITC.png" alt="GDSC NITC"/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > </h4>
+	<h2 align="center"> Found-It </h2>
+	<h4 align="center"> A dedicated lost and found app for NITC, making it easy to report, track, and reclaim lost belongings within the campus community! </h4>
 </p>
 
 ---
@@ -14,10 +14,10 @@
 
 
 ## ✨ Features
-- [ ]  < Feature 1 >
-- [ ]  < Feature 2 >
-- [ ]  < Feature 3 >
-- [ ]  < Feature 4 >
+- [ ]  Google based Login for NITC email account
+- [ ]  Reporting feature for Found Objects
+- [ ]  Location based reporting for objects
+- [ ]  Notifications 
 
 ## 💻 Tech Stack 
 
@@ -31,6 +31,8 @@
 - < Dependency 3 >
 
 ## 🚀 Getting Started
+
+### Contributors
 
 <table>
 	<tr align="center">
