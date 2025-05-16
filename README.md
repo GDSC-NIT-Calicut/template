@@ -30,7 +30,7 @@
 - < Dependency 2 >
 - < Dependency 3 >
 
-## 🚀 Getting Started
+## CONTRIBUTORS
 
 <table>
 	<tr align="center">
